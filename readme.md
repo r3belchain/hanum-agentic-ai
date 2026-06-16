@@ -1,4 +1,4 @@
-Hanum Agentic AI (Prototype)
+## Hanum Agentic AI (Prototype)
 
 Proyek eksperimen mandiri untuk membangun Agen AI otonom yang cerdas, memiliki memori, dan mampu berinteraksi secara dinamis. Proyek ini dibangun dari nol menggunakan ekosistem modern **LangChain** dan **LangGraph**, dengan otak utama menggunakan model **Gemma 4 (31B) Cloud**.
 

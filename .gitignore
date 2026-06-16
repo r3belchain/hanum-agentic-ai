@@ -1,0 +1,15 @@
+# Mengabaikan file Rahasia (WAJIB)
+.env
+
+# Mengabaikan folder virtual environment Python
+venv/
+env/
+.venv/
+
+# Mengabaikan file sampah Python
+__pycache__/
+*.pyc
+
+# Mengabaikan file memori lokal (jika nanti pakai SQLite)
+*.sqlite3
+*.db

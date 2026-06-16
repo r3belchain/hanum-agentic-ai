@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [".", "/home/rebel/ollama-hanum"],
+  "python.autoComplete.extraPaths": [".", "/home/rebel/ollama-hanum"],
+  "python.analysis.logLevel": "Trace"
+}
